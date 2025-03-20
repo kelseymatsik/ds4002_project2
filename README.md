@@ -4,8 +4,8 @@ By _Data Destroyers (Kelsey Matsik - leader, Karan Rawat, Emma Mills, Emily Macr
 
 
 ## Contents of Repository
-This repository contains all the work for Project 2 of Prototyping which has the goal of working with time series data. Specifcally, the goal of the repository is to answer the question: 
-_How have crime rates in Charlottesville changed over time, specifically with respect to the UVA academic calendar?_<br>
+This repository contains all the work for Project 2 of Prototyping which has the goal of working with time series data. Specifcally, the goal of the repository is to answer the question: <br> <br>
+_How have crime rates in Charlottesville changed over time, specifically with respect to the UVA academic calendar?_
 
 
 
