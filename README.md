@@ -33,6 +33,5 @@ ds4002_project1/<br>
 
 1. [Clone the repository](https://github.com/kelseymatsik/ds4002_project2.git)
 2. First go to the python notebook _preprocessing_EDA.ipynb_ and run each code box in order. This will produce the data set and some data visualizations.
-4. Now go to the python notebook _SARIMA_analysis.ipynb_ and run each code box in order. This will produce the SARIMA model statistical analysis.
-5. Then go to the python notebook _SARIMA2_analysis.ipynb_ and run each code box in order. This will produce the SARIMAX model statistical analysis.
+4. (_Optional_) Both the _SARIMA_analysis.ipynb_ and _SARIMA2_analysis.ipynb_ were testing the SARIMA and SARIMAX models. These were not used in the final presentation. However, if you want to see it, go to each one and run each code box in order. 
 6. Lastly, go to the python notebook _prophet_analysis.ipynb_ and run each code box in order. This will produce the Prophet model statistical analysis. 
