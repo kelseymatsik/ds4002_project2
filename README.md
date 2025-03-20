@@ -21,7 +21,7 @@ ds4002_project1/<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└── cleaned_data.csv<br>
 &nbsp;&nbsp;&nbsp;&nbsp;├── scripts/<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── SARIMA_analysis.ipynb<br>
-&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── VAR_analysis.ipynb<br>
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── SARIMA2_analysis.ipynb<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── preprocessing_EDA.ipynb<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└── prophet_analysis.ipynb<br>
 &nbsp;&nbsp;&nbsp;&nbsp;├── .DS_Store<br>
@@ -32,7 +32,8 @@ ds4002_project1/<br>
 
 ## Section 3 -- Reproducing the Results
 
-1. [Clone the repository](https://github.com/KaranRawatUVA/ds4002_project1.git)
-2. First go to the python notebook _scraping_cleaning.ipynb_ and run each code box in order. This will produce the data set.
-4. Now go to the python notebook _EDA.ipynb_ and run each code box in order. This will produce data visualization.
-5. Lastly, go to the python notebook _analysis.ipynb_ and run each code box in order. This will produce the statistical analysis. 
+1. [Clone the repository](https://github.com/kelseymatsik/ds4002_project2.git)
+2. First go to the python notebook _preprocessing_EDA.ipynb_ and run each code box in order. This will produce the data set and some data visualizations.
+4. Now go to the python notebook _SARIMA_analysis.ipynb_ and run each code box in order. This will produce the SARIMA model statistical analysis.
+5. Then go to the python notebook _SARIMA2_analysis.ipynb_ and run each code box in order. This will produce the SARIMAX model statistical analysis.
+6. Lastly, go to the python notebook _prophet_analysis.ipynb_ and run each code box in order. This will produce the Prophet model statistical analysis. 
