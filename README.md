@@ -11,8 +11,7 @@ _How have crime rates in Charlottesville changed over time, specifically with re
 
 
 ## Section 1 -- Software and Platform
-Throughout this project we used Github, Jupyter Notebook, VS Code and Python. The packages we used were pandas, seaborn, matplotlib, scipy, numpy, requests, and bs4 (Beautiful Soup), Prophet, SARIMAX, Astral, Pytz 
-All of these packages would have to be downloaded in order to run the notebooks. Both Windows and Mac were used to complete this project. 
+Throughout this project we used Github, Jupyter Notebook, VS Code and Python. The packages we used were _pandas, seaborn, matplotlib, scipy, numpy, requests, and bs4 (Beautiful Soup), Prophet, SARIMAX, Astral, and Pytz_. All of these packages would have to be downloaded in order to run the notebooks. Both Windows and Mac were used to complete this project.
 
 ## Section 2 -- Directory Map
 ds4002_project1/<br>
