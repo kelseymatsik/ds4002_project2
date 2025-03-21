@@ -27,6 +27,21 @@ ds4002_project1/<br>
 &nbsp;&nbsp;&nbsp;&nbsp;├── LICENSE<br>
 &nbsp;&nbsp;&nbsp;&nbsp;└── README.md<br>
 
+ds4002_project1/
+    ├── data/
+    │   ├── Crime_Data.csv
+    │   └── cleaned_data.csv
+    ├── scripts/
+    │   ├── SARIMA_analysis.ipynb
+    │   ├── SARIMA2_analysis.ipynb
+    │   ├── preprocessing_EDA.ipynb
+    │   └── prophet_analysis.ipynb
+    ├── output/
+    │   └── output_figs.md
+    ├── .DS_Store
+    ├── LICENSE
+    └── README.md
+
 
 
 ## Section 3 -- Reproducing the Results
