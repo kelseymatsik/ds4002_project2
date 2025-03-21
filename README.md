@@ -1,5 +1,5 @@
 # Charlottesville Crime and UVA Schedule Patterns 
-By _Data Destroyers (Kelsey Matsik - leader, Karan Rawat, Emma Mills, Emily Macris)_
+By Data Destroyers (Kelsey Matsik - leader, Karan Rawat, Emma Mills, Emily Macris)
 
 
 
