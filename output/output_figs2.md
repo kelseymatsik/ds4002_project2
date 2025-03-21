@@ -20,5 +20,6 @@ Our model shows sharp increases in crime during the weekend and less crime on Mo
 # Model Evaluation 
 We trained three Facebook Prophet models to analyze seasonality effects. The results show that the models using Holidays alone and InSession + Holidays produce identical performance metrics (MAE, RMSE, and MAPE). This suggests that adding InSession as an extra regressor does not provide additional predictive value.
 Our best and most interpretable model is the one incorporating UVA holidays, which follows the university’s academic calendar (e.g., fall semester, winter break). This finding indicates that UVA's holiday schedule is a key seasonal factor influencing the data.
+
 <img width="331" alt="fig1" src="https://github.com/user-attachments/assets/7fcc7632-2c3e-4381-9624-11f679b2fabe" />
 
